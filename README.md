@@ -18,15 +18,12 @@ Ich bin ein **Fullstack Webentwickler** mit Fokus auf moderne Frontend-Technolog
 
 ## 🚀 Projekte (Auswahl)
 
-- [ORS|25 Event Platform](https://github.com/ppm-tjohann/orsi25-event-platform) – CMS-basierte Event-Website mit Stripe & Brevo
+- [Event Landingpage](https://github.com/ppm-tjohann/orsi25-event-platform) – CMS-basierte Event-Website mit Stripe & Brevo
 - [pp-m.net](https://github.com/ppm-tjohann/pp-m.net) – Headless CMS Frontend für Agentur, SSR & MUI
 - [weidener-meisterkonzerte.de](https://weidener-meisterkonzerte.de) – Custom CMS für Kulturbetrieb
 
 ## 📫 Kontakt & Links
-
-- 🔗 [Website / Portfolio](https://pp-m.net/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tobias-johann)
-- ✉️ johann.tobias[at]gmail.com
+- ✉️ tobJohann[at]gmail.com
 
 ---
 

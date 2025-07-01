@@ -27,14 +27,10 @@ Ich bin ein **Fullstack Webentwickler** mit Fokus auf moderne Frontend-Technolog
 - **Seit 2017** – Selbstständig als Webentwickler & Designer (z. B. weidener-meisterkonzerte.de)
 - **Studium** – SAE München (B.Sc. Webentwicklung), Abschlussprojekt: Mitarbeiter-App mit Chat, Kalender & Gamification
 
-## 🚀 Projekte (Auswahl)
 
-- [Event Landingpage](https://github.com/tobJohann/event-landingpage) – CMS-basierte Event-Website mit Stripe & Brevo
-- [Agentur Website](https://github.com/tobJohann/agency-website) – Headless CMS Frontend für Agentur, SSR & MUI
-- [weidener-meisterkonzerte.de](https://weidener-meisterkonzerte.de) – Custom CMS für Kulturbetrieb
 
 ## 📫 Kontakt & Links
-- ✉️ [tobJohann@gmail.com](mailto:tobJohann@gmail.com)
+- ✉️ [tob.johann@gmail.com](mailto:tob.johann@gmail.com)
 
 ---
 
